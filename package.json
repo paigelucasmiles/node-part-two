@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/paigelucasmiles/node-part-two/issues"
   },
-  "homepage": "https://github.com/paigelucasmiles/node-part-two#readme"
+  "homepage": "https://github.com/paigelucasmiles/node-part-two#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
