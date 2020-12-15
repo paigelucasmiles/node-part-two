@@ -1,0 +1,19 @@
+{
+  "name": "part-two",
+  "version": "1.0.0",
+  "description": "first node server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/paigelucasmiles/node-part-two.git"
+  },
+  "author": "PLM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paigelucasmiles/node-part-two/issues"
+  },
+  "homepage": "https://github.com/paigelucasmiles/node-part-two#readme"
+}
